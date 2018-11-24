@@ -14,7 +14,6 @@ ATank::ATank()
 void ATank::BeginPlay()
 {
 	Super::BeginPlay();
-	
 }
 
 // Called every frame
