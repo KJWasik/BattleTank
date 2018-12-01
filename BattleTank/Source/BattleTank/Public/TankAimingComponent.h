@@ -23,7 +23,6 @@ public:
 
 	void SetBarrelReference(UTankBarrel* BarrelToSet);
 
-public:	
 	void AimAt(FVector OutHitLocation, float LaunchSpeed);
 
 private:
